@@ -11,3 +11,16 @@ os = "linux"
     [[BSplines.download]]
     sha256 = "8192fbe2b7b7a8c1582be5a58b4b92776f9e052f5900d16d6c017d80c43596e0"
     url = "https://github.com/leespen1/BSplines_jll.jl/releases/download/BSplines-v0.1.0+0/BSplines.v0.1.0.x86_64-linux-gnu-libgfortran4-cxx11-libstdcxx29-julia_version+1.7.3.tar.gz"
+[[BSplines]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "171d147acd0ca2eb87038d18e67c4e665944de1d"
+julia_version = "1.7.3"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+libstdcxx_version = "3.4.29"
+os = "linux"
+
+    [[BSplines.download]]
+    sha256 = "8192fbe2b7b7a8c1582be5a58b4b92776f9e052f5900d16d6c017d80c43596e0"
+    url = "https://github.com/leespen1/BSplines_jll.jl/releases/download/BSplines-v0.1.1+0/BSplines.v0.1.1.x86_64-linux-gnu-libgfortran4-cxx11-libstdcxx29-julia_version+1.7.3.tar.gz"
