@@ -102,3 +102,33 @@ os = "linux"
     [[BSplines.download]]
     sha256 = "3ad33c59a78782d089eefdf5faac93e4ff08c5fdcb064b25637e3ddf8614829e"
     url = "https://github.com/leespen1/BSplines_jll.jl/releases/download/BSplines-v0.1.8+0/BSplines.v0.1.8.x86_64-linux-gnu-libgfortran4-cxx11-libstdcxx29-julia_version+1.7.3.tar.gz"
+[[BSplines]]
+arch = "x86_64"
+git-tree-sha1 = "e9962a0f123acc8432197adeb471ee16440b471f"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[BSplines.download]]
+    sha256 = "b93aa2bdc8b2683e16e3abe68109ff742bfb56d33aeb45359a4eddb0218d50c7"
+    url = "https://github.com/leespen1/BSplines_jll.jl/releases/download/BSplines-v0.1.10+0/BSplines.v0.1.10.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[BSplines]]
+arch = "x86_64"
+git-tree-sha1 = "bedfb51a7be68c98c41ea6d84545195ce47c6f93"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[BSplines.download]]
+    sha256 = "3ad33c59a78782d089eefdf5faac93e4ff08c5fdcb064b25637e3ddf8614829e"
+    url = "https://github.com/leespen1/BSplines_jll.jl/releases/download/BSplines-v0.1.10+0/BSplines.v0.1.10.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[BSplines]]
+arch = "x86_64"
+git-tree-sha1 = "629f2c2201ac8457c7162f955f10029aa4e4899d"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[BSplines.download]]
+    sha256 = "5afbec5fcdb0c5d6d8ea409316b720f597daec42fd5f3caab63f506a19faa85a"
+    url = "https://github.com/leespen1/BSplines_jll.jl/releases/download/BSplines-v0.1.10+0/BSplines.v0.1.10.x86_64-linux-gnu-libgfortran5.tar.gz"
