@@ -103,6 +103,42 @@ os = "linux"
     sha256 = "3ad33c59a78782d089eefdf5faac93e4ff08c5fdcb064b25637e3ddf8614829e"
     url = "https://github.com/leespen1/BSplines_jll.jl/releases/download/BSplines-v0.1.8+0/BSplines.v0.1.8.x86_64-linux-gnu-libgfortran4-cxx11-libstdcxx29-julia_version+1.7.3.tar.gz"
 [[BSplines]]
+arch = "aarch64"
+git-tree-sha1 = "9de468b121ca392c592229d6a8a51ad852f715e6"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[BSplines.download]]
+    sha256 = "b2069f6453136db2a0c381c4e1e95d02c3da3d97afc127bcc5d405e41e7cd60b"
+    url = "https://github.com/leespen1/BSplines_jll.jl/releases/download/BSplines-v0.1.12+0/BSplines.v0.1.12.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[BSplines]]
+arch = "x86_64"
+git-tree-sha1 = "5b3fc7d65124710605e7c72a445e9b4363931d0c"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[BSplines.download]]
+    sha256 = "ad5516eed1b1c5f2de11b4c0f3c452a2b7e9c124c8b4228d4e35ed42f4218be7"
+    url = "https://github.com/leespen1/BSplines_jll.jl/releases/download/BSplines-v0.1.12+0/BSplines.v0.1.12.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[BSplines]]
+arch = "x86_64"
+git-tree-sha1 = "4cbdf0bbe586944614ee8e9d948abdf66ffe7dec"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[BSplines.download]]
+    sha256 = "fbf91b0a6ecafd14f49e6cf41c7687d21d18cae69eeddc88d41f27b243c6bb0d"
+    url = "https://github.com/leespen1/BSplines_jll.jl/releases/download/BSplines-v0.1.12+0/BSplines.v0.1.12.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[BSplines]]
+arch = "x86_64"
+git-tree-sha1 = "d393aa5cce8b02ce12d5f42471469c4db7752bbe"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[BSplines.download]]
+    sha256 = "54894a1408e0b5b956af5dbc8745cc786f1868e50155a8ec7b323c23f224e1f8"
+    url = "https://github.com/leespen1/BSplines_jll.jl/releases/download/BSplines-v0.1.12+0/BSplines.v0.1.12.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[BSplines]]
 arch = "x86_64"
 git-tree-sha1 = "e9962a0f123acc8432197adeb471ee16440b471f"
 libc = "glibc"
@@ -111,7 +147,7 @@ os = "linux"
 
     [[BSplines.download]]
     sha256 = "b93aa2bdc8b2683e16e3abe68109ff742bfb56d33aeb45359a4eddb0218d50c7"
-    url = "https://github.com/leespen1/BSplines_jll.jl/releases/download/BSplines-v0.1.10+0/BSplines.v0.1.10.x86_64-linux-gnu-libgfortran3.tar.gz"
+    url = "https://github.com/leespen1/BSplines_jll.jl/releases/download/BSplines-v0.1.12+0/BSplines.v0.1.12.x86_64-linux-gnu-libgfortran3.tar.gz"
 [[BSplines]]
 arch = "x86_64"
 git-tree-sha1 = "bedfb51a7be68c98c41ea6d84545195ce47c6f93"
@@ -121,7 +157,7 @@ os = "linux"
 
     [[BSplines.download]]
     sha256 = "3ad33c59a78782d089eefdf5faac93e4ff08c5fdcb064b25637e3ddf8614829e"
-    url = "https://github.com/leespen1/BSplines_jll.jl/releases/download/BSplines-v0.1.10+0/BSplines.v0.1.10.x86_64-linux-gnu-libgfortran4.tar.gz"
+    url = "https://github.com/leespen1/BSplines_jll.jl/releases/download/BSplines-v0.1.12+0/BSplines.v0.1.12.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[BSplines]]
 arch = "x86_64"
 git-tree-sha1 = "629f2c2201ac8457c7162f955f10029aa4e4899d"
@@ -131,4 +167,31 @@ os = "linux"
 
     [[BSplines.download]]
     sha256 = "5afbec5fcdb0c5d6d8ea409316b720f597daec42fd5f3caab63f506a19faa85a"
-    url = "https://github.com/leespen1/BSplines_jll.jl/releases/download/BSplines-v0.1.10+0/BSplines.v0.1.10.x86_64-linux-gnu-libgfortran5.tar.gz"
+    url = "https://github.com/leespen1/BSplines_jll.jl/releases/download/BSplines-v0.1.12+0/BSplines.v0.1.12.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[BSplines]]
+arch = "x86_64"
+git-tree-sha1 = "3c7db454c7a00a5db8376de4ad6aa2b38e12f267"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[BSplines.download]]
+    sha256 = "a19b5aafd3d7fe7fe263fb8f75b36d4a7976ca910adae5f44dddb151dc89af9d"
+    url = "https://github.com/leespen1/BSplines_jll.jl/releases/download/BSplines-v0.1.12+0/BSplines.v0.1.12.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[BSplines]]
+arch = "x86_64"
+git-tree-sha1 = "81bd979eb7da13b0998886dcd4933c60cb306c35"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[BSplines.download]]
+    sha256 = "20e6528774413970e20217fac07246bee869d356a1d3c7f188266f762f45b261"
+    url = "https://github.com/leespen1/BSplines_jll.jl/releases/download/BSplines-v0.1.12+0/BSplines.v0.1.12.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[BSplines]]
+arch = "x86_64"
+git-tree-sha1 = "76f4344fd1bfa1fcb793d1d4bdb8bf309f155590"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[BSplines.download]]
+    sha256 = "375e0e0cb39be0d60f97ecd20e4071b0c1c36488b9f3e1ddd8d2e847acb77986"
+    url = "https://github.com/leespen1/BSplines_jll.jl/releases/download/BSplines-v0.1.12+0/BSplines.v0.1.12.x86_64-w64-mingw32-libgfortran5.tar.gz"
